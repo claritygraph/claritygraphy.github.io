@@ -59,9 +59,32 @@ p{
 .img-thumbnail{
 	position: relative;
 }
+
+.warna-footer{
+	background-color:  #1f2e2e;
+}
+.footer{
+	text-decoration: none;
+}
+.card-text{
+	
+	text-align: center;
+}
+.read-more{
+	margin-left: 38%;
+}
+.read-more-2{
+	margin-left: 38%;
+}
+
 /*Desktop*/
 @media (min-width: 992px){
 	.navbar-collapse{
 		padding-left: 50%;
 	}
+	.read-more{
+	margin-left: 34%;
+}
+.read-more-2{
+	margin-left: 40%;
 }
